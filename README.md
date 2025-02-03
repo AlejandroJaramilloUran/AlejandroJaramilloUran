@@ -1,6 +1,6 @@
 <h1>I'm Alejandro 
 
-<h2> Ecology Projects:</h2>
+<h2> Useful ecology codes:</h2>
 
 - <b>Getting species ocurrences</b>
   - [species ocurrences using rgbif](https://github.com/AlejandroJaramilloUran/getting_sp_ocurrences/tree/main)
