@@ -1,4 +1,13 @@
-## Hi there 👋
+<h1>I'm Alejandro 
+
+<h2> Ecology Projects:</h2>
+
+- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+
+
+
+
 
 <!--
 **AlejandroJaramilloUran/AlejandroJaramilloUran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
