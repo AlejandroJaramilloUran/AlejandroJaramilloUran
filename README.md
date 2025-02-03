@@ -1,10 +1,10 @@
-<h1>I'm Alejandro 
- I have interest in ecology and plants.
+<h1>I'm Alejandro </h1>
+<b> I have interest in ecology and plants. </b> 
  
 <h2> Useful ecology codes:</h2>
 
-- <b> Downloading satellite climate data </b>
- - [temperatura data from MODIS](https://github.com/AlejandroJaramilloUran/ee_temperature_info)
+- <b>Downloading satellite climate data</b>
+  - [temperatura data from MODIS](https://github.com/AlejandroJaramilloUran/ee_temperature_info)
   
 - <b>Getting species ocurrences</b>
   - [species ocurrences using rgbif](https://github.com/AlejandroJaramilloUran/getting_sp_ocurrences/tree/main)
