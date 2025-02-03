@@ -2,8 +2,8 @@
 
 <h2> Ecology Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Getting species ocurrences</b>
+  - [species ocurrences using rgbif](https://github.com/AlejandroJaramilloUran/getting_sp_ocurrences/tree/main)
 
 
 
