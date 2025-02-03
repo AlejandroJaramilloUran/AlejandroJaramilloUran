@@ -1,5 +1,4 @@
-<h1>I'm Alejandro </h1>
-<b> I have interest in ecology and plants. </b> 
+<h1>Some of my coding projects </h1>
  
 <h2> Useful ecology codes:</h2>
 
