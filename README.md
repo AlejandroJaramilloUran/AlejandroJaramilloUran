@@ -1,6 +1,5 @@
-<h1>Some of my coding projects </h1>
+<h1>Samples of code </h1>
  
-<h2> Useful ecology codes:</h2>
 
 - <b>Manipulating shapefiles and calculating distances between them and points</b>
   - [shp filtering and function to calculate distances](https://github.com/AlejandroJaramilloUran/shp_manipulation
