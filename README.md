@@ -1,6 +1,6 @@
 <h1>Undergraduate thesis </h1>
 
-<b> "Response of andean plant communities to increases in temperature and droughts" </b>
+<b> Response of andean plant communities to increases in temperature and droughts </b>
   - [Thesis](https://github.com/AlejandroJaramilloUran/Thesis)
 
 <h1>Samples of code </h1>
