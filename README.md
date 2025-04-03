@@ -1,6 +1,6 @@
 <h1>Samples of code </h1>
  
-- <b>Climate data</b>
+- <b>Download, filter and management of climate data</b>
   - [climate_data](https://github.com/AlejandroJaramilloUran/climate_data)
 
 - <b>Manipulating shapefiles and calculating distances between them and points</b>
