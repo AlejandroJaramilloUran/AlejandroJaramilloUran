@@ -1,12 +1,11 @@
 <h1>Samples of code </h1>
  
+- <b>Climate data</b>
+  - [climate_data](https://github.com/AlejandroJaramilloUran/climate_data)
 
 - <b>Manipulating shapefiles and calculating distances between them and points</b>
   - [shp filtering and function to calculate distances](https://github.com/AlejandroJaramilloUran/shp_manipulation
 )
-  
-- <b>Downloading satellite climate data</b>
-  - [temperatura data from MODIS](https://github.com/AlejandroJaramilloUran/ee_temperature_info)
   
 - <b>Getting species ocurrences</b>
   - [species ocurrences using rgbif](https://github.com/AlejandroJaramilloUran/getting_sp_ocurrences/tree/main)
