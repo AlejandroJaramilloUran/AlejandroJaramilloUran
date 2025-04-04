@@ -1,7 +1,7 @@
-<h1>Undergraduate thesis </h1>
+<h1>Academic projects </h1>
 
   - <b> Response of andean plant communities to increases in temperature and droughts </b>
-    - [Thesis](https://github.com/AlejandroJaramilloUran/Thesis)
+    - [AndeanPlantsThermophilization](https://github.com/AlejandroJaramilloUran/AndeanPlantsThermophilization)
 
 <h1>Samples of code </h1>
  
