@@ -1,6 +1,6 @@
 <h1>Academic projects </h1>
 
-  - <b> Response of andean plant communities to increases in temperature and droughts </b>
+  - <b> Response of andean tree communities to increases in temperature and droughts </b>
     - [AndeanPlantsThermophilization](https://github.com/AlejandroJaramilloUran/AndeanPlantsThermophilization)
 
 <h1>Samples of code </h1>
