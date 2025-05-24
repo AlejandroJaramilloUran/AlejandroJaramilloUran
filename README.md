@@ -4,7 +4,10 @@
     - [AndeanPlantsThermophilization](https://github.com/AlejandroJaramilloUran/AndeanPlantsThermophilization)
 
 <h1>Samples of code </h1>
- 
+
+- <b>Canopy height 3D graph of Antioquia's forests</b>
+  - [3D plot](https://github.com/AlejandroJaramilloUran/antioquia_canopy_3dmap)
+
 - <b>Download, filter and management of climate data</b>
   - [climate_data](https://github.com/AlejandroJaramilloUran/climate_data)
 
